@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f748b047.css",
-    "main.js": "/portfolio/static/js/main.479396db.js",
+    "main.css": "/portfolio/static/css/main.8d46dec3.css",
+    "main.js": "/portfolio/static/js/main.4bdd3b1d.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/tcs-logo.png": "/portfolio/static/media/tcs-logo.2db4db6a9df36243daae.png",
+    "static/media/gf-logo.png": "/portfolio/static/media/gf-logo.8afd9853cd81854c5bde.png",
     "static/media/logo-king-white-cropped.png": "/portfolio/static/media/logo-king-white-cropped.56a2fc7c7f5ee917de1b.png",
     "index.html": "/portfolio/index.html",
-    "main.f748b047.css.map": "/portfolio/static/css/main.f748b047.css.map",
-    "main.479396db.js.map": "/portfolio/static/js/main.479396db.js.map",
+    "main.8d46dec3.css.map": "/portfolio/static/css/main.8d46dec3.css.map",
+    "main.4bdd3b1d.js.map": "/portfolio/static/js/main.4bdd3b1d.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f748b047.css",
-    "static/js/main.479396db.js"
+    "static/css/main.8d46dec3.css",
+    "static/js/main.4bdd3b1d.js"
   ]
 }
