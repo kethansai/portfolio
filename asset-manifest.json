@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.705edd71.css",
-    "main.js": "/portfolio/static/js/main.aeeedc82.js",
+    "main.css": "/portfolio/static/css/main.f748b047.css",
+    "main.js": "/portfolio/static/js/main.479396db.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/logo-king-white-cropped.png": "/portfolio/static/media/logo-king-white-cropped.56a2fc7c7f5ee917de1b.png",
     "index.html": "/portfolio/index.html",
-    "main.705edd71.css.map": "/portfolio/static/css/main.705edd71.css.map",
-    "main.aeeedc82.js.map": "/portfolio/static/js/main.aeeedc82.js.map",
+    "main.f748b047.css.map": "/portfolio/static/css/main.f748b047.css.map",
+    "main.479396db.js.map": "/portfolio/static/js/main.479396db.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.705edd71.css",
-    "static/js/main.aeeedc82.js"
+    "static/css/main.f748b047.css",
+    "static/js/main.479396db.js"
   ]
 }
