@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dfe81d78.css",
-    "main.js": "/portfolio/static/js/main.d4034fa9.js",
+    "main.js": "/portfolio/static/js/main.9f3c6613.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/school-logo.png": "/portfolio/static/media/school-logo.15ab4d3651d0ba38ed27.png",
     "static/media/SS-certificate.jpg": "/portfolio/static/media/SS-certificate.402305619cb00fe1a27e.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo-king-white-cropped.png": "/portfolio/static/media/logo-king-white-cropped.56a2fc7c7f5ee917de1b.png",
     "index.html": "/portfolio/index.html",
     "main.dfe81d78.css.map": "/portfolio/static/css/main.dfe81d78.css.map",
-    "main.d4034fa9.js.map": "/portfolio/static/js/main.d4034fa9.js.map",
+    "main.9f3c6613.js.map": "/portfolio/static/js/main.9f3c6613.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfe81d78.css",
-    "static/js/main.d4034fa9.js"
+    "static/js/main.9f3c6613.js"
   ]
 }
